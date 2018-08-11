@@ -1,0 +1,139 @@
+h1{
+	color:red;
+	text-align: left;
+}
+h2{
+  background-color:green;
+  color:red;
+  text-align: left;
+}
+h3{
+  background-color: green;
+  color:white;
+  text-align: left;
+}
+h4{
+  color:red;
+  font-size: 25px;
+}
+.cur2{
+  color:red;
+  font-size: 25px;
+  font-weight: 600;
+}
+.cur3{
+  color:red;
+  font-size: 25px;
+  font-weight: 600;
+
+}
+.cur4{
+  color: red;
+  font-size: 25px;
+  font-weight: 600;
+
+}
+.cur5{
+  color: red;
+  font-size: 25px;
+  font-weight: 600;
+
+}
+.cur6{
+  color:red;
+  background-color: yellow;
+} 
+.cur8{
+  color: black;
+  font-size: 14px;
+  background-color: red;
+}
+.s1{
+  color: white;
+  background-color: gray; 
+}
+.s2{
+  color: white;
+  background-color: gray;
+}
+.cur9{
+  color: black;
+  font-size: 14px;
+  background-color: green;
+}
+.s3{
+  color: white;
+}
+.cur10{
+  color: white;
+  background-color:black;
+}
+.s4{
+  color: white;
+  background-color: grey;
+}
+.cur11{
+  color: black;
+  background-color: grey;
+}
+.s5{
+  color: white;
+  background-color: grey;
+}
+h5{
+    background-color:blue;
+  color:white;
+  text-align: left;
+  font-size: 18px;
+}
+table{
+  margin: 0 auto;
+  border:1px solid;
+  
+  background-color: yellow;
+}
+.s6{
+  font-size: 30px;
+  color: blue;
+
+}
+.em2{
+  font-weight: bold;
+}
+.em3{
+  font-size: 40px;
+  color: red;
+}
+.em4{
+  font-size: 30px;
+  color: red;
+}
+.em5{
+  font-size: 30px;
+  color: red;
+}
+.em6{
+  color: red;
+  background-color: yellow;
+}
+.em8{
+  color: blue;
+  background-color: black;
+  font-size: 40px;
+}
+.em9{
+  color: white;
+  background-color: black;
+}
+.final1{
+  color: yellow;
+}
+table{
+  border-collapse: collapse;
+}
+.fondo1{
+  background-color: #15EB9D;;
+}
+
+
+
